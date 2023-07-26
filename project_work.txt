@@ -1,0 +1,50 @@
+Adv Model - 
+Subscription Model
+
+Traffic + advertisment 
+
+10 M = 3000/Min =>  Purchase
+
+sell - buy
+
+E-Commerce 
+Roles & Responsibilities
+-------------------------
+Admin
+    Maintain the Platform
+    Manage Vendors
+    Manage Customer
+    Customer care Support    
+    Payment Gateway - MVP2
+Vendor
+    Authentication - MVP
+    Upload Products - MVP
+    View/Search Product - MVP
+    Edit/Delete Product - MVP
+    View Orders - MVP
+    Mark it as Delivered - MVP    
+    Add Discount
+Customer
+    Authentication - MVP
+    View Product, - MVP
+    Sort,search,filter based on price,rating etc...
+    Compare Product,
+    Add to cart - MVP
+    View Cart - MVP
+    Edit/Delete Cart - MVP
+    Place Order - MVP
+    View Orders - MVP
+    Cancel Order
+    Return Product
+    Review & Rating
+    Order Tracking
+
+
+    Single Sign on
+    ---------------
+    www.ecom.com/login
+    www.ecom.com/login
+
+
+    Last submission date: 29th July 
+    Submit to : kalidas@acmegrade.in
